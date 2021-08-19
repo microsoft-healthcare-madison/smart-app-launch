@@ -98,7 +98,7 @@ Scope strings appear over the wire at several points in an OAuth flow. Implement
 
 #### Clinical Scope Syntax
 
-Expressed as a railroad diagram, the scope language is:
+Scopes are case-sensitive strings. Expressed as a railroad diagram, the scope language is:
 
 
 <svg class="railroad-diagram" width="1094" height="131" viewBox="0 0 1094 131" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
